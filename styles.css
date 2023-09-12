@@ -1,11 +1,17 @@
 .header__logo,
 .hero__heading,
 .gallery__heading,
-.call-to-action__info-heading {
+.call-to-action__info-heading,
+.hero__text {
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
 }
 
 .hero,
 .footer {
     background-color: #1f2937;
+}
+
+.hero__heading {
+    font-size: 48px;
+    color: #f9faf8;
 }
