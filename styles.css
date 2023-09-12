@@ -4,3 +4,8 @@
 .call-to-action__info-heading {
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
 }
+
+.hero,
+.footer {
+    background-color: #1f2937;
+}
