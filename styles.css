@@ -30,3 +30,8 @@
 .header__navbar {
     list-style-type: none;
 }
+
+.header__logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
