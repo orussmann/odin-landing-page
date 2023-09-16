@@ -1,3 +1,8 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
 .header__logo,
 .hero__heading,
 .gallery__heading,
