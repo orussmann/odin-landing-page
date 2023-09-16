@@ -41,3 +41,8 @@
 .call-to-action {
     background-color: #3882f6;
 }
+
+.gallery__heading {
+    font: 900 36px Roboto;
+    color: #1f3927;
+}
