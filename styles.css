@@ -36,3 +36,8 @@
     font-size: 24px;
     color: #f9faf8;
 }
+
+.hero__sign-up-button,
+.call-to-action {
+    background-color: #3882f6;
+}
