@@ -17,3 +17,11 @@
     color: #f9faf8;
     font: 900 48px Roboto;
 }
+
+.hero__text,
+.header__link-1,
+.header__link-2,
+.header__link-3 {
+    font-size: 18px;
+    color: #e5e7eb;
+}
