@@ -52,3 +52,16 @@
     font: 300 italic normal 36px "Roboto";
     color: #1f2937;
 }
+
+
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header__navbar {
+    display: flex;
+    margin: 0px;
+    align-items: center;
+    gap: 35px;
+}
