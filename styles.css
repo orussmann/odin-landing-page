@@ -24,4 +24,9 @@
 .header__link-3 {
     font-size: 18px;
     color: #e5e7eb;
+    text-decoration: none;
+}
+
+.header__navbar {
+    list-style-type: none;
 }
