@@ -47,6 +47,8 @@
     color: #1f3927;
 }
 
-.inspiring-quote {
+.inspiring-quote__text {
     background-color: #e5e7eb;
+    font: 300 italic normal 36px "Roboto";
+    color: #1f2937;
 }
