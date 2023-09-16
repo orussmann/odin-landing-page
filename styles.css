@@ -9,9 +9,11 @@
 .hero,
 .footer {
     background-color: #1f2937;
+    font-weight: 300;
 }
 
 .hero__heading {
     font-size: 48px;
     color: #f9faf8;
+    font: 900 48px Roboto;
 }
