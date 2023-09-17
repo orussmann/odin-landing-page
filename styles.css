@@ -80,6 +80,12 @@ margin: 0px;
     height: 80vh;
 }
 
+.hero__left-part {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+}
 
 .hero__image {
     max-width: 100%;
