@@ -1,15 +1,9 @@
 * {
     margin: 0px;
     padding: 0px;
-}
-
-.header__logo,
-.hero__heading,
-.gallery__heading,
-.call-to-action__info-heading,
-.hero__text {
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
 }
+
 
 .header,
 .hero,
