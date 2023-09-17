@@ -158,3 +158,13 @@
     color: #f9faf8;
     font-weight: 900;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+    color: #f9faf8;
+    font-size: 18px;
+    font-weight: 400;
+}
