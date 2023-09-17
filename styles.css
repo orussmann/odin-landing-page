@@ -67,7 +67,7 @@
 
 .header__navbar {
     display: flex;
-margin: 0px;
+    margin: 0px;
     align-items: center;
     gap: 35px;
 }
@@ -90,4 +90,13 @@ margin: 0px;
 .hero__image {
     max-width: 100%;
     max-height: auto;
+}
+
+.hero__sign-up-button {
+    padding: 7px 35px;
+    color: #f9faf8;
+    border-radius: 7px;
+    border: none;
+    font-weight: bold;
+    font-size: 18px;
 }
