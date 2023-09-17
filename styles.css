@@ -94,3 +94,32 @@
     font-weight: bold;
     font-size: 18px;
 }
+
+.gallery {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 125px;
+}
+
+.gallery__heading {
+    padding: 0 0 50px 0;
+}
+
+.gallery__tiles {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;    
+}
+
+
+.gallery__tile-image {
+    border: 5px solid #3882f6;
+    max-width: 100%;
+    border-radius: 7px;
+}
+
+.gallery_tile-info {
+    text-align: center;
+}
