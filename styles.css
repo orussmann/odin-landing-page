@@ -138,3 +138,23 @@
     font-size: 24px;
     padding-right: 30px;
 }
+
+.call-to-action {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 125px;
+    padding: 50px 125px;
+    border-radius: 7px;
+    color: #f9faf8;
+}
+
+.call-to-action__button {
+    background-color: #3882f6;
+    border: 2px solid #f9faf8;
+    border-radius: 7px;
+    padding: 7px 35px;
+    font-size: 18px;
+    color: #f9faf8;
+    font-weight: 900;
+}
