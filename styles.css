@@ -61,21 +61,27 @@
 
 .header {
     display: flex;
-    justify-content: space-around;
-    padding: 20px;
+    justify-content: space-between;
+    padding: 50px 125px;
 }
 
 .header__navbar {
     display: flex;
-    margin: 0px;
+margin: 0px;
     align-items: center;
     gap: 35px;
 }
 
 .hero {
     display: flex;
-    padding: 100px;
+    justify-content: space-between;
+    padding: 50px 125px;
     gap: 40px;
-    justify-content: space-around;
     height: 80vh;
+}
+
+
+.hero__image {
+    max-width: 100%;
+    max-height: auto;
 }
